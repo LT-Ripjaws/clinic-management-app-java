@@ -1,0 +1,10 @@
+Medicine:   	Price:
+COMET 500 	4.02  BDT
+Sergel 20 	6.72  BDT
+Clopid 75 	11.52 BDT
+Monas 10  	15.36 BDT
+Pantonix  	6.72  BDT
+Azyth 500 	53.28 BDT
+Anzitor   	11.52 BDT
+Napa 60 ml   	33.60 BDT
+Ace  30 ml  	28.80 BDT
